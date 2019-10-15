@@ -21,7 +21,7 @@ subtitle = ""
   description = "90%"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "analytics"
   icon_pack = "fas"
   name = "Statistics"
   description = "100%"  
