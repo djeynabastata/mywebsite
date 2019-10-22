@@ -32,5 +32,15 @@ subtitle = ""
   name = "French"
   description = "100%"  
 
-  
+  [[feature]]
+  icon = "language"
+  icon_pack = "fas"
+  name = "Fulani/Pulaar"
+  description = "100%"
+
+[[feature]]
+  icon = "language"
+  icon_pack = "fas"
+  name = "Wolof"
+  description = "70%"
 +++
