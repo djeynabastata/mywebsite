@@ -32,7 +32,7 @@ subtitle = ""
   name = "French"
   description = "100%"  
 
-  [[feature]]
+[[feature]]
   icon = "language"
   icon_pack = "fas"
   name = "Fulani/Pulaar"
