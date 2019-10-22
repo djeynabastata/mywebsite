@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Djeynaba Ba
+name: Djeynaba Gatta Ba
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Doctoral Student 
+role: Ph.D. Student 
 
 # Organizations/Affiliations
 organizations:
@@ -28,7 +28,7 @@ interests:
 
 education:
   courses:
-  - course: PhD in Environment and Natural Resources 
+  - course: PhD in Rural Sociology 
     institution: The Ohio State University
     year: 2020
   - course: M.A. in Applied Economics
@@ -43,8 +43,8 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
+- icon: envelope 
+  icon_pack: fab
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
@@ -52,6 +52,9 @@ social:
 - icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/djeynaba-gatta-ba-b1426716/
+- icon: skype
+  icon_pack: fab
+  link: djeynabag
 - icon: github
   icon_pack: fab
   link: https://github.com/djeynabastata
