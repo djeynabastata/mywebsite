@@ -24,6 +24,13 @@ subtitle = ""
   icon = "analytics"
   icon_pack = "fas"
   name = "Statistics"
+  description = "50%"  
+
+[[feature]]
+  icon = "language"
+  icon_pack = "fas"
+  name = "French"
   description = "100%"  
+
   
 +++
