@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Student at the School of Environment and Natural Resources
+role: Ph.D. Student in Rural Sociology
 
 # Organizations/Affiliations
 organizations:
