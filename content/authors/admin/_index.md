@@ -54,7 +54,7 @@ social:
   link: https://www.linkedin.com/in/djeynaba-gatta-ba-b1426716/
 - icon: skype
   icon_pack: fab
-  link: djeynabag
+  link: https://join.skype.com/invite/zGYMtdTbszMC
 - icon: github
   icon_pack: fab
   link: https://github.com/djeynabastata
