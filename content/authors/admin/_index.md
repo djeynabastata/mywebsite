@@ -48,7 +48,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://https://twitter.com/ba_djeynaba
 - icon: linkedin-in
   icon_pack: fab
   link: https://www.linkedin.com/in/djeynaba-gatta-ba-b1426716/
