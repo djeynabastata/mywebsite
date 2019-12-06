@@ -39,8 +39,6 @@ date_format = "Jan 2006"
   location = "Ohio"
   date_start = "2018-01-06"
   date_end = "2018-31-07"
-  description = ""Helped students achieve good grades by carefully planning lessons, assignments, and projects.
-•	Assessed students’ progress by grading quizzes and exams, and posting grades
-."""
+  description = """Helped students achieve good grades by carefully planning lessons, assignments, and projects. Assessed students’ progress by grading quizzes and exams, and posting grades."""
 
 +++
